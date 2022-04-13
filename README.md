@@ -1,4 +1,4 @@
-# bowfin_code
+# Bowfin_code
 
 This repository contains code for genome assembly and population genetics analysis. 
 
